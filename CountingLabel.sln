@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingLabel", "CountingLabel\CountingLabel.csproj", "{6FF1FDAA-5D09-4F17-9207-06CD3CA8420A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FF1FDAA-5D09-4F17-9207-06CD3CA8420A}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{6FF1FDAA-5D09-4F17-9207-06CD3CA8420A}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{6FF1FDAA-5D09-4F17-9207-06CD3CA8420A}.Release|iPhone.ActiveCfg = Release|iPhone
+		{6FF1FDAA-5D09-4F17-9207-06CD3CA8420A}.Release|iPhone.Build.0 = Release|iPhone
+		{6FF1FDAA-5D09-4F17-9207-06CD3CA8420A}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{6FF1FDAA-5D09-4F17-9207-06CD3CA8420A}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{6FF1FDAA-5D09-4F17-9207-06CD3CA8420A}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{6FF1FDAA-5D09-4F17-9207-06CD3CA8420A}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
